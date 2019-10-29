@@ -21,9 +21,13 @@ Model-specific-problem-causing package is called PyCoCoTools. It is provided in 
 cd coco/PythonAPI<br/>
 python setup.py build_ext install<br/>
 
-Other dependecies are described in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colab.research.google.com) most of the time.<br/>
+The model is written in Keras and Tensorflow. Dependecies are described more precisely in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colab.research.google.com) most of the time.<br/>
 
 Datasets with bounding box annotations and precise instance segmentation masks used for training and evaluation of the model are provided in .zip files in the "datasets" folder. It is advised to unpack them at the same level as .py files.<br/>
+
+Description of model parameters along with adopted values is available (and can be changed) in mrcnn/config.py.<br/>
+
+Changes in visualisation of detections by the model can be done in mrcnn/visualize.py, especially in the "display_instances" function.<br/>
 
 ## Example results are presented below:<br/>
 
@@ -49,4 +53,8 @@ Training the model on segmantation dataset is possible:\
 python3 ce_segmentation.py train --dataset=/path/to/dataset --model=/path/to/model_weights<br/>
 
 If you wish to train your model from MS CoCo weights, please download them from the original repository  (https://github.com/matterport/Mask_RCNN).
+
+## Citation:<br/>
+If you decide to use here published version of the Mask R-CNN model, model weights or labelled or unlabelled images please cite our work in the following manner:
+(please contact us directly at this time since the paper is still in preparation).
 
