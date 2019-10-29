@@ -16,6 +16,17 @@ Trained model weights are available in the release section (0.1 release).
 
 The code is written in Python3 and requires GPU computing machine for achieving reasonable performance.
 
+Installation:
+model-specific-problem-causing package is called PyCoCoTools. It is provided in a proper version in this repo as "modified_pycoco_files.zip". Before using the model, please unzip this file so that the "coco" folder is on the same level as your .py files. Next run:\
+cd coco/PythonAPI<br/>
+python setup.py build_ext install<br/>
+
+Other dependecies are described in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colaboratory.research.google.com).\
+
+Example results of the model are presented below:\
+
+ 
+
 Example use:\
 To analyze images you can run:\
 python3 ce_bbx.py inference --image_folder=/path/to/images/for/inference --DMC=0.9 --NMS=0.6 --model=/path/to/model_weights<br/>
@@ -31,7 +42,5 @@ python3 ce_bbx.py train --dataset=/path/to/train_dataset --model=path_to_initial
 
 Training the model on segmantation dataset is possible:\
 python3 ce_segmentation.py train --dataset=/path/to/dataset --model=/path/to/model_weights<br/>
-
-
 
 
