@@ -21,9 +21,9 @@ model-specific-problem-causing package is called PyCoCoTools. It is provided in 
 cd coco/PythonAPI<br/>
 python setup.py build_ext install<br/>
 
-Other dependecies are described in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colaboratory.research.google.com).\
+Other dependecies are described in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colab.research.google.com).<br/>
 
-Example results of the model are presented below:\
+Example results of the model are presented below:<br/>
 
  
 
