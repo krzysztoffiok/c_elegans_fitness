@@ -23,6 +23,8 @@ python setup.py build_ext install<br/>
 
 Other dependecies are described in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colab.research.google.com) most of the time.<br/>
 
+Datasets with bounding box annotations and precise instance segmentation masks used for training and evaluation of the model are provided in .zip files in the "datasets" folder. It is advised to unpack them at the same level as .py files.<br/>
+
 ## Example results are presented below:<br/>
 
 <img src="https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/example_results/result_K03_2.jpg" width=640 height=512><br/>
