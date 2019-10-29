@@ -1,4 +1,4 @@
-This repository contains a copy of Mask R-CNN (https://github.com/matterport/Mask_RCNN) model modified for the purpose of carrying out C. Elegans fitness analysis described in paper (in preparation):
+This repository contains a copy of [Mask R-CNN](https://github.com/matterport/Mask_RCNN) model modified for the purpose of carrying out C. Elegans fitness analysis described in paper (in preparation):
 
 *"Fitness analysis of Caenorhabditis elegans using Convolutional Neural Network"*
 
@@ -21,7 +21,7 @@ Model-specific-problem-causing package is called PyCoCoTools. It is provided in 
 cd coco/PythonAPI<br/>
 python setup.py build_ext install<br/>
 
-The model is written in Keras and Tensorflow. Dependecies are described more precisely in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colab.research.google.com) most of the time.<br/>
+The model is written in Keras and Tensorflow. Dependecies are described more precisely in [Mask R-CNN](https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colab.research.google.com) most of the time.<br/>
 
 Datasets with bounding box annotations and precise instance segmentation masks used for training and evaluation of the model are provided in .zip files in the "datasets" folder. It is advised to unpack them at the same level as .py files.<br/>
 
