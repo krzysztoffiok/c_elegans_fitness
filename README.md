@@ -2,11 +2,9 @@ This repository contains a copy of MASK-RCNN (https://github.com/matterport/Mask
 
 *"Fitness analysis of Caenorhabditis elegans using Convolutional Neural Network"*
 
-
 Authors: Joanna K. Palka1, Krzysztof Fiok2, Weronika Antoł1, Zofia M. Prokop1
 
 1 Jagiellonian University in Krakow, Institute of Environmental Sciences
-
 2 University of Central Florida, Industrial Engineering & Management Systems
 
 
