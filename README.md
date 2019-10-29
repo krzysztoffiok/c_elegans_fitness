@@ -23,7 +23,7 @@ python setup.py build_ext install<br/>
 
 Other dependecies are described in (https://github.com/matterport/Mask_RCNN), and are met e.g. by [Google Colaboratory](https://colab.research.google.com) most of the time.<br/>
 
-## Example results of the model are presented below:<br/>
+## Example results are presented below:<br/>
 
 <img src="https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/example_results/result_K03_2.jpg" width=640 height=512><br/>
 <img src="https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/example_results/result_K05_1.jpg" width=640 height=512><br/>  
