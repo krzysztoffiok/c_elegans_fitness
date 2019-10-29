@@ -25,7 +25,7 @@ The model is written in Keras and Tensorflow. Dependecies are described more pre
 
 Datasets with bounding box annotations and precise instance segmentation masks used for training and evaluation of the model are provided in .zip files in the "datasets" folder. It is advised to unpack them at the same level as .py files.<br/>
 
-Description of model parameters along with adopted values is available (and can be changed) in mrcnn/config.py.<br/>
+Description of model parameters along with adopted values is available in mrcnn/config.py.<br/>
 
 Changes in visualisation of detections by the model can be done in mrcnn/visualize.py, especially in the "display_instances" function.<br/>
 
