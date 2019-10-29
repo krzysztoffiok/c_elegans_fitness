@@ -52,9 +52,9 @@ python3 ce_bbx.py train --dataset=/path/to/train_dataset --model=path_to_initial
 Training the model on segmantation dataset is possible:\
 python3 ce_segmentation.py train --dataset=/path/to/dataset --model=/path/to/model_weights<br/>
 
-If you wish to train your model from MS CoCo weights, please download them from the original repository  (https://github.com/matterport/Mask_RCNN).
+If you wish to train your model from MS CoCo weights, please download them from the original repository  [Mask R-CNN](https://github.com/matterport/Mask_RCNN).
 
 ## Citation:<br/>
-If you decide to use here published version of the Mask R-CNN model, model weights or labelled or unlabelled images please cite our work in the following manner:
+If you decide to use here published version of the Mask R-CNN model, model weights or labelled or unlabelled images from our datasets please cite our work in the following manner:
 (please contact us directly at this time since the paper is still in preparation).
 
