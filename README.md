@@ -28,7 +28,7 @@ Other dependecies are described in (https://github.com/matterport/Mask_RCNN), an
 <img src="https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/example_results/result_K03_2.jpg" width=640 height=512><br/>
 <img src="https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/example_results/result_K05_1.jpg" width=640 height=512><br/>  
 
-## Example use:\
+## Example use:<br/>
 To analyze images you can run:\
 python3 ce_bbx.py inference --image_folder=/path/to/images/for/inference --DMC=0.9 --NMS=0.6 --model=/path/to/model_weights<br/>
 
