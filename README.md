@@ -25,7 +25,8 @@ Other dependecies are described in (https://github.com/matterport/Mask_RCNN), an
 
 Example results of the model are presented below:<br/>
 
- 
+![alt text](https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/example_results/result_K03_2.jpg)<br/>
+![alt text](https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/example_results/result_K05_1.jpg)<br/>  
 
 Example use:\
 To analyze images you can run:\
