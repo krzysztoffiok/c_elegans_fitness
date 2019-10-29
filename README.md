@@ -8,7 +8,7 @@ Authors: Joanna K. Palka1, Krzysztof Fiok2, Weronika Antoł1, Zofia M. Prokop1
 2 University of Central Florida, Industrial Engineering & Management Systems
 
 
-The whole repository is published under MIT License (please refer to [License file](https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/LICENSE).
+The whole repository is published under MIT License (please refer to the [License file](https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/LICENSE)).
 
 In due course full description of usage will appear here.
 
