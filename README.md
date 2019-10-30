@@ -5,8 +5,9 @@ This repository contains a copy of [Mask R-CNN](https://github.com/matterport/Ma
 Authors: Joanna K. Palka1, Krzysztof Fiok2, Weronika Antoł1, Zofia M. Prokop1
 
 1 Jagiellonian University in Krakow, Institute of Environmental Sciences\
-2 University of Central Florida, Industrial Engineering & Management Systems
+2 University of Central Florida, Industrial Engineering & Management Systems<br/>
 
+The study was supported by National Science Centre, Poland, Grant UMO-2013/09/B/NZ8/03317 to Zofia M.Prokop. <br/>
 
 The whole repository is published under MIT License (please refer to the [License file](https://github.com/krzysztoffiok/c_elegans_fitness/blob/master/LICENSE)).
 
