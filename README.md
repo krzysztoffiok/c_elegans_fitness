@@ -18,6 +18,8 @@ Trained model weights are available in the [release section](https://github.com/
 The code is written in Python3 and requires GPU computing machine for achieving reasonable performance.
 
 ## Installation:
+Please clone this repository and extract zipped files.
+
 Model-specific-problem-causing package is called PyCoCoTools. It is provided in a proper version in this repo as "modified_pycoco_files.zip". Before using the model, please unzip this file so that the "coco" folder is on the same level as your .py files. Next run:\
 cd coco/PythonAPI<br/>
 python setup.py build_ext install<br/>
