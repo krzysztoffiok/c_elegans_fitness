@@ -17,6 +17,10 @@ Trained model weights are available in the [release section](https://github.com/
 
 The code is written in Python3 and requires GPU computing machine for achieving reasonable performance.
 
+## Try how it works in google colaboratory:
+
+[C elegans fitness in google colaboratory](https://colab.research.google.com/drive/1sskbMid4VdZ1yEs5N2HDyo8WGe2wf039)
+
 ## Installation:
 Please clone this repository and extract zipped files.
 
