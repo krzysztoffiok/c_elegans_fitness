@@ -20,7 +20,7 @@ The code is written in Python3 and requires GPU computing machine for achieving 
 ## Try how it works in google colaboratory:
 
 [C elegans fitness in google colaboratory](https://colab.research.google.com/drive/1sskbMid4VdZ1yEs5N2HDyo8WGe2wf039)
-PLease select the runtime type Python3 with GPU acceleration for reasonable performance.
+Select the runtime type Python3 with GPU acceleration for reasonable performance.
 
 ## Installation:
 Please clone this repository and extract zipped files.
