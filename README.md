@@ -1,6 +1,6 @@
-This repository contains a copy of [Mask R-CNN](https://github.com/matterport/Mask_RCNN) model modified for the purpose of carrying out C. Elegans fitness analysis described in paper (in preparation):
+This repository contains a copy of [Mask R-CNN](https://github.com/matterport/Mask_RCNN) model modified for the purpose of carrying out C. Elegans fitness analysis described in paper (05.11.2019 submitted to Journal of Nematology):
 
-*"Fitness analysis of Caenorhabditis elegans using Convolutional Neural Network"*
+*"Competitive fitness analysis with a Convolutional Neural Network"*
 
 Authors: Joanna K. Palka1, Krzysztof Fiok2, Weronika Antoł1, Zofia M. Prokop1
 
