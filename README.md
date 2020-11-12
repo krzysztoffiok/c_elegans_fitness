@@ -1,4 +1,4 @@
-This repository contains a copy of [Mask R-CNN](https://github.com/matterport/Mask_RCNN) model modified for the purpose of carrying out C. Elegans fitness analysis described in paper (05.11.2019 submitted to Journal of Nematology):
+This repository contains a copy of [Mask R-CNN](https://github.com/matterport/Mask_RCNN) model modified for the purpose of carrying out C. Elegans fitness analysis described in paper (Journal of Nematology):
 
 *"Competitive fitness analysis with a Convolutional Neural Network"*
 
@@ -60,6 +60,7 @@ python3 ce_segmentation.py train --dataset=/path/to/dataset --model=/path/to/mod
 If you wish to train your model from MS CoCo weights, please download them from the original repository  [Mask R-CNN](https://github.com/matterport/Mask_RCNN).
 
 ## Citation:<br/>
-If you decide to use here published version of the Mask R-CNN model, model weights or labelled or unlabelled images from our datasets please cite our work in the following manner:
-(please contact us directly at this time since the paper is still in preparation).
-
+If you decide to use here published version of the Mask R-CNN model, model weights or labelled or unlabelled images from our datasets please cite our work referring to
+Competitive fitness analysis using Convolutional Neural Network
+Joanna K. Palka * / Krzysztof Fiok / Weronika Antoł / Zofia M. Prokop
+Journal of Nematology. Volume 52, Pages 1-15, DOI: https://doi.org/10.21307/jofnem-2020-108
